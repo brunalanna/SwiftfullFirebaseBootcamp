@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+**/**/.DS_Store
+.orig
+vendor/
+
+# Project
+*.xcodeproj
+*.xcresult
+**/XcodeGen.lock
+
+# User settings
+xcuserdata/
+
+# CocoaPods
+Pods/
+
+# Swift Package Manager
+.swiftpm
+
+# Swift
+*.hmap
+
+# App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Apple Certificate
+*.mobileprovision
+
+# Build folder (SPM)
+**/.build
+
+# IDE
+.vscode
+.idea
